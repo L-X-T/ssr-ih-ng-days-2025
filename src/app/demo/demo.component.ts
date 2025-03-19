@@ -1,4 +1,5 @@
 import { afterNextRender, Component, signal } from '@angular/core';
+
 import { VictorComponent } from '../victor/victor.component';
 import { NoemieComponent } from '../noemie/noemie.component';
 import { MarcusComponent } from '../marcus/marcus.component';
