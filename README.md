@@ -2,10 +2,12 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3 currently using NG v20.
 
+Slides: [Deferrable Views and Incremental Hydration](https://speakerdeck.com/lx_t/deferrable-views-and-incremental-hydration) on Speaker Deck.
+
 ## Blog Series
 
-- [**Complete Guide for SSR in Angular**](https://www.angulararchitects.io/blog/complete-guide-for-server-side-rendering-ssr-in-angular/) 🚀
-- [**Angular 17's Deferrable Views**](https://www.angulararchitects.io/blog/how-to-improve-initial-load-performance-with-angular-17s-deferrable-views/)🚀
+- [**Complete Guide for SSR in Angular**](https://www.angulararchitects.io/blog/guide-for-ssr/) 🚀
+- [**Angular 17's Deferrable Views**](https://www.angulararchitects.io/blog/deferrable-views/)🚀
 
 ## Workshops
 
